@@ -15,11 +15,12 @@ d: 1
 e: 2
 f: 1
 </h4>
-<h4>Program 2)Using methods charAt() & length() of String class, write a program to print the
+<h4>
+  Program 2)Using methods charAt() & length() of String class, write a program to print the
 frequency of each character in a string.
 “Hello friend”
   </h4>
-  </h4>
+  <h4>
   Program 3)We have a Letter or a word then we need add some letters to it and need to find out shortest palindrome
 For example we take "S": S will be the shortest palindrome string.
 If we take "xyz": zyxyz will be the shortest palindrome string
