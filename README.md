@@ -37,3 +37,14 @@ In case of all matches, its a palindrome. Any one element mismatch makes it not 
 
   </h4>
 
+<h4>
+  Test Case 1:
+If a linked listis: 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8
+The value of size k is 2
+Then the linked list looks like: 2 → 1 → 4 → 3 → 6 → 5 → 8 → 7
+
+Test Case 2:
+If a linked listis: 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8
+The value of size k is 3
+Then the linked list looks like: 3 → 2 → 1 → 6 → 5 → 4 → 8 → 7
+</h4>
