@@ -48,3 +48,8 @@ If a linked listis: 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8
 The value of size k is 3
 Then the linked list looks like: 3 → 2 → 1 → 6 → 5 → 4 → 8 → 7
 </h4>
+
+<h4>
+  A user will input two strings, and we find if one of the strings is a sub sequence of the other. Program prints “yes” if either the first string is a sub sequence of the second string or the second string is a sub sequence of the first string.
+Assume that, the length of the first string is smaller than or equal to the length of the second string.
+</h4>
