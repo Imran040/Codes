@@ -54,5 +54,5 @@ Then the linked list looks like: 3 → 2 → 1 → 6 → 5 → 4 → 8 → 7
 Assume that, the length of the first string is smaller than or equal to the length of the second string.
 </h4>
 <h4>
-  Write C Program to create Singly Liked List with n elements and reverse the elements using C
+ Program 7) Write C Program to create Singly Liked List with n elements and reverse the elements using C
   </h4>
