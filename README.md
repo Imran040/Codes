@@ -56,3 +56,6 @@ Assume that, the length of the first string is smaller than or equal to the leng
 <h4>
  Program 7) Write C Program to create Singly Liked List with n elements and reverse the elements using C
   </h4>
+<h4>Program 8)Python program for number pattern
+  </h4>
+  
