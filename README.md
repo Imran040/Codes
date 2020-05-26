@@ -61,3 +61,6 @@ Assume that, the length of the first string is smaller than or equal to the leng
   <h4>
  Program 9) Write a C Program to implement various operations of Singly Linked List Stack
   </h4>
+<h4>
+  PROGRAM 10)Write a program in C to print all permutations of a given string using pointers
+  </h4>
