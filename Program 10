@@ -7,9 +7,8 @@ void swap (char *x, char *y)
 char temp;
 temp = *x;
 *x = *y;
-y = temp;
+*y = temp;
 }
-/ End of swap() */
 
 /* Function to print permutations of string */
 void permute(char *a, int i, int n)
@@ -27,7 +26,6 @@ swap((a + i), (a + j)); //backtrack
 }
 }
 
-/* The main() begins */
 int main()
 {
 char a[20];
