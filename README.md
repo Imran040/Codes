@@ -64,3 +64,6 @@ Assume that, the length of the first string is smaller than or equal to the leng
 <h4>
   PROGRAM 10)Write a program in C to print all permutations of a given string using pointers
   </h4>
+<h4>
+  Program 11)Write a C Program to sort an array of integers in ascending order and display the sorted array and Number of passes performed for sorting.
+  </h4>
