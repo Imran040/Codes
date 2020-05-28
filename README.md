@@ -68,5 +68,5 @@ Assume that, the length of the first string is smaller than or equal to the leng
   Program 11)Write a C Program to sort an array of integers in ascending order and display the sorted array and Number of passes performed for sorting.
   </h4>
 <h4>
-  Given an array arr[] of size N and an integer K. The task is to find the last remaining element in the array after reducing the array. The rules for reducing the array are: The first and last element say X and Y are chosen and removed from the array arr[].
+ Program 12) Given an array arr[] of size N and an integer K. The task is to find the last remaining element in the array after reducing the array. The rules for reducing the array are: The first and last element say X and Y are chosen and removed from the array arr[].
   </h4>
