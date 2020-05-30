@@ -70,3 +70,4 @@ Assume that, the length of the first string is smaller than or equal to the leng
 <h4>
  Program 12) Given an array arr[] of size N and an integer K. The task is to find the last remaining element in the array after reducing the array. The rules for reducing the array are: The first and last element say X and Y are chosen and removed from the array arr[].
   </h4>
+ <h4> Program 13)Write a C Program to generate first N Armstrong Numbers.</h4>
