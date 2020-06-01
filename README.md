@@ -72,4 +72,4 @@ Assume that, the length of the first string is smaller than or equal to the leng
   </h4>
  <h4> Program 13)Write a C Program to generate first N Armstrong Numbers.</h4>
 <h4>Program 14)Python program for palimdrome</h4>
-<h4>Given an array of positive integers. Write a C Program to find the leaders in the array</h4>
+<h4>Program 15)Given an array of positive integers. Write a C Program to find the leaders in the array</h4>
