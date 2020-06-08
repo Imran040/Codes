@@ -79,3 +79,4 @@ Assume that, the length of the first string is smaller than or equal to the leng
 <h4>Program 19)C program on strings</h4>
 <h4>Program 20)Write a program in C to rotate an array by N positions.</h4>
 <h4>Program 21)C program to find the friendly pair or not</h4>
+<h4>Program 22)C Program to Generate All the Set Partitions of n Numbers Beginning from 1 and so on</h4>
