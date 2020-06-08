@@ -78,3 +78,4 @@ Assume that, the length of the first string is smaller than or equal to the leng
 <h4>Program 18)C program for balanced paranthesis</h4>
 <h4>Program 19)C program on strings</h4>
 <h4>Program 20)Write a program in C to rotate an array by N positions.</h4>
+<h4>C program to find the friendly pair or not</h4>
