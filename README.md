@@ -82,3 +82,4 @@ Assume that, the length of the first string is smaller than or equal to the leng
 <h4>Program 22)C Program to Generate All the Set Partitions of n Numbers Beginning from 1 and so on</h4>
 <h4>Program 23)Write a C Program to rotate the matrix by K times</h4>
 <h4>Program 24)Write a C Program to print the sum of boundary elements of a matrix</h4>
+<h4>Program 25)Write C program to remove duplicate elements</h4>
