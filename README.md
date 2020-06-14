@@ -85,3 +85,4 @@ Assume that, the length of the first string is smaller than or equal to the leng
 <h4>Program 25)Write C program to remove duplicate elements</h4>
 <h4>Program 26)Write C program to split the resultant array</h4>
 <h4>Program 27)Write C program to calculate Electricity Bill </h4>
+<h4>Program 28)Write C program to first non-repeating character </h4>
