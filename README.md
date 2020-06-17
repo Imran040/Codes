@@ -88,3 +88,4 @@ Assume that, the length of the first string is smaller than or equal to the leng
 <h4>Program 28)Write C program to first non-repeating character </h4>
 <h4>Program 29)Write C program for reverse the bits</h4>
 <h4>Program 30)Write C program for TLL</h4>
+<h4>Program 30)Find the smallest positive integer value that cannot be represented as sum of any subset of a given array sorted in ascending order. </h4>
