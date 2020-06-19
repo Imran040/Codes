@@ -90,3 +90,4 @@ Assume that, the length of the first string is smaller than or equal to the leng
 <h4>Program 30)Write C program for TLL</h4>
 <h4>Program 31)Find the smallest positive integer value that cannot be represented as sum of any subset of a given array sorted in ascending order. </h4>
 <h4>Program 32)Write a C Program to generate first N Magic Numbers.</h4>
+<h4>Program 33)Write a C Program to rotate a Matrix by 90 Degree in Clockwise or Anticlockwise Direction.</h4>
