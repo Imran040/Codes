@@ -92,3 +92,4 @@ Assume that, the length of the first string is smaller than or equal to the leng
 <h4>Program 32)Write a C Program to generate first N Magic Numbers.</h4>
 <h4>Program 33)Write a C Program to rotate a Matrix by 90 Degree in Clockwise or Anticlockwise Direction.</h4>
 <h4>Program 35)Write a C Program BST.</h4>
+<h4>Program 36)Write c program on largest palindrome</h4>
